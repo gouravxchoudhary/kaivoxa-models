@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "issuedAt": "2026-10-24T19:50:44.093Z",
+  "files": [
+    {
+      "bundle": "stt-turbo",
+      "path": "whisper/ggml-large-v3-turbo-q5_0.bin",
+      "size": 574041195,
+      "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper__ggml-large-v3-turbo-q5_0.bin",
+        "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo-q5_0.bin"
+      ]
+    },
+    {
+      "bundle": "stt-base",
+      "path": "whisper/ggml-base-q5_1.bin",
+      "size": 59707625,
+      "sha256": "422f1ae452ade6f30a004d7e5c6a43195e4433bc370bf23fac9cc591f01a8898",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper__ggml-base-q5_1.bin",
+        "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base-q5_1.bin"
+      ]
+    },
+    {
+      "bundle": "stt-small",
+      "path": "whisper/ggml-small-q5_1.bin",
+      "size": 190085487,
+      "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper__ggml-small-q5_1.bin",
+        "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-q5_1.bin"
+      ]
+    },
+    {
+      "bundle": "embed-e5-small",
+      "path": "Xenova/multilingual-e5-small/config.json",
+      "size": 658,
+      "sha256": "cb99455288675345e1a4f411438d5d0adbba5fbd3a67ea4fb03c015433b996c1",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/Xenova__multilingual-e5-small__config.json",
+        "https://huggingface.co/Xenova/multilingual-e5-small/resolve/main/config.json"
+      ]
+    },
+    {
+      "bundle": "embed-e5-small",
+      "path": "Xenova/multilingual-e5-small/tokenizer.json",
+      "size": 17082730,
+      "sha256": "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/Xenova__multilingual-e5-small__tokenizer.json",
+        "https://huggingface.co/Xenova/multilingual-e5-small/resolve/main/tokenizer.json"
+      ]
+    },
+    {
+      "bundle": "embed-e5-small",
+      "path": "Xenova/multilingual-e5-small/tokenizer_config.json",
+      "size": 443,
+      "sha256": "a1d6bc8734a6f635dc158508bef000f8e2e5a759c7d92f984b2c86e5ff53425b",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/Xenova__multilingual-e5-small__tokenizer_config.json",
+        "https://huggingface.co/Xenova/multilingual-e5-small/resolve/main/tokenizer_config.json"
+      ]
+    },
+    {
+      "bundle": "embed-e5-small",
+      "path": "Xenova/multilingual-e5-small/special_tokens_map.json",
+      "size": 167,
+      "sha256": "d05497f1da52c5e09554c0cd874037a083e1dc1b9cfd48034d1c717f1afc07a7",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/Xenova__multilingual-e5-small__special_tokens_map.json",
+        "https://huggingface.co/Xenova/multilingual-e5-small/resolve/main/special_tokens_map.json"
+      ]
+    },
+    {
+      "bundle": "embed-e5-small",
+      "path": "Xenova/multilingual-e5-small/onnx/model_quantized.onnx",
+      "size": 118308185,
+      "sha256": "f80102d3f2a1229f387d3c81909990d8945513e347b0eab049f7de3c6f98c193",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/Xenova__multilingual-e5-small__onnx__model_quantized.onnx",
+        "https://huggingface.co/Xenova/multilingual-e5-small/resolve/main/onnx/model_quantized.onnx"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/whisper-server.exe",
+      "size": 728576,
+      "sha256": "99135fa0e14059e026eef112da991bdd7ba9b22b01259b31fb58446ca6d245e4",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__whisper-server.exe"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/whisper.dll",
+      "size": 1312256,
+      "sha256": "d8eb92588ee9aa850150703828ce6890dee4a9991cd68c8da1ae1e162a089742",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__whisper.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml.dll",
+      "size": 60928,
+      "sha256": "42520bbdd998be8efffc358c108c7dbdae79b78bb0ec2dd8ab96b1428b537a13",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-base.dll",
+      "size": 677376,
+      "sha256": "d4c84248be354504b3ec9bc09b2cfcc58d1c310e5c3bee6a0409a0d7ed699714",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-base.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cuda.dll",
+      "size": 571467776,
+      "sha256": "cd8686d659f3d86130a7ef4b397b2aac57c50783c4af6a6cc816ccb139e2a51e",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cuda.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-haswell.dll",
+      "size": 1005568,
+      "sha256": "2ebc77e22e2d75968a0122a4c967abbdf0bc8a822da31882dd5e635a9e08cb21",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-haswell.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-x64.dll",
+      "size": 839168,
+      "sha256": "dedae238216ef7094e7f2cab1a08c4804f2efb0c551ca70e5f8d24d75c3b3044",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-x64.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-sse42.dll",
+      "size": 838656,
+      "sha256": "7a7bcf3a60e18a100c5eb23b90a4e4c49f388a73620195d0ffe8eb6363b87504",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-sse42.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-sandybridge.dll",
+      "size": 1001472,
+      "sha256": "b9d3f59381fd7a742edea83ec95ce1a83e7648561e79857e7212a9281897cfc9",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-sandybridge.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-skylakex.dll",
+      "size": 1047040,
+      "sha256": "9c87d468d758400e53f4efcb0e71ffcee98a7beffe5b588839d9bc7e60508b2b",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-skylakex.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-icelake.dll",
+      "size": 1045504,
+      "sha256": "0ca38623160bab59473f497f32d05c58e18300d9b4680d8996ac6d0adcb5a93e",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-icelake.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-alderlake.dll",
+      "size": 1004544,
+      "sha256": "03f9bedce35659705fa9190b43b9f5b0ee3f03c64381ad6d93d2f502f7fcd246",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-alderlake.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-cannonlake.dll",
+      "size": 1047040,
+      "sha256": "9b8380a17728eb917314268278296136de1c33419eb9cb3714ec80ecbd194535",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-cannonlake.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/ggml-cpu-cascadelake.dll",
+      "size": 1045504,
+      "sha256": "abea9a8e91e56cc71e6d71d430336dd091b21933f3f0c796dd4b1a12d4ac84a6",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__ggml-cpu-cascadelake.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/cudart64_110.dll",
+      "size": 526848,
+      "sha256": "ba5c2fb526c4ee4bb218ceb3fa5e8bfde89ce474f38711fdcce802549bf9fc6f",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__cudart64_110.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/cublas64_11.dll",
+      "size": 88668160,
+      "sha256": "8ca516b96b29c2fba2344909a896bc1cd7951f6cd11fe595a8a3929c02cccbed",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__cublas64_11.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/cublasLt64_11.dll",
+      "size": 544070144,
+      "sha256": "3d06ca4e4893adb7a153ecd23a540e92817c967312b44646d8c3f91b089196e6",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__cublasLt64_11.dll"
+      ]
+    }
+  ]
+}
