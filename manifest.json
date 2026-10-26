@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "issuedAt": "2026-10-26T17:15:42.753Z",
+  "version": 3,
+  "issuedAt": "2026-10-26T17:29:07.632Z",
   "files": [
     {
       "bundle": "stt-turbo",
@@ -242,6 +242,42 @@
       "sha256": "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9",
       "urls": [
         "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__msvcp140.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/msvcp140_1.dll",
+      "size": 35952,
+      "sha256": "bfad5aef4c63a669e3c140655cdfdf395b6c979b400a447bd5dcb65ed8826c3d",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__msvcp140_1.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/msvcp140_2.dll",
+      "size": 280200,
+      "sha256": "3ea06f0ee098b4823cb79599df3780e7f23cce52c19aac31d2a0d47efe33a5e9",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__msvcp140_2.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/msvcp140_atomic_wait.dll",
+      "size": 50304,
+      "sha256": "640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__msvcp140_atomic_wait.dll"
+      ]
+    },
+    {
+      "bundle": "cuda-runtime",
+      "path": "whisper-cuda/vcomp140.dll",
+      "size": 193152,
+      "sha256": "55aba23cdcd6484fbb06f4155b8ca75adfce7a881f10afd0c49457165e677164",
+      "urls": [
+        "https://github.com/gouravxchoudhary/kaivoxa-models/releases/download/models-v1/whisper-cuda__vcomp140.dll"
       ]
     },
     {
