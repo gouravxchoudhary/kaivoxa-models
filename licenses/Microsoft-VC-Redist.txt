@@ -1,0 +1,3 @@
+Microsoft Visual C++ Redistributable runtime (msvcp140.dll, vcruntime140.dll, vcruntime140_1.dll, v14.44)
+Shipped unmodified, app-local, under the Microsoft Visual Studio redistributable terms
+(https://learn.microsoft.com/en-us/visualstudio/releases/2022/redistribution).
